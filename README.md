@@ -1,29 +1,239 @@
-🚀 **Day 1 of My Journey to Becoming a Machine Learning Engineer**
+# 🚀 My Journey to Becoming a Machine Learning Engineer
 
-Today, I’m officially starting something I’ve been wanting to do for a while — documenting my journey toward becoming a **Machine Learning Engineer**.
+Welcome to my **Machine Learning Engineer Journey**!
 
-For Day 1, I focused on getting more comfortable with **Pandas 🐼** and practicing basic data analysis operations.
+I’m documenting my journey from the fundamentals of Python and data analysis to building real-world Machine Learning projects.
 
-Today I practiced things like:
-• Reading and exploring datasets
-• Finding rows and columns
-• Filtering data based on conditions
-• Sorting data
-• Finding the Top 5 scores
-• Calculating averages
-• Finding maximum values
-• Grouping data by department
-• Counting students in each department
+The goal is simple:
 
-I used **ChatGPT as a learning assistant** whenever I got stuck or wanted to understand something better. Instead of just copying code, I’m trying to understand **why the code works and how I can use it myself.**
+> **Learn → Practice → Build → Share → Improve**
 
-This is just Day 1, but I’m excited to see how far I can go if I stay consistent. 💪
+I’ll be posting my progress regularly on LinkedIn and updating this repository with the things I learn, practice questions, projects, notes, and useful resources.
 
-📌 **Goal:** Become a Machine Learning Engineer
-📅 **Day 1/180**
+---
 
-I’ll be sharing my progress, projects, mistakes, and things I learn along the way.
+## 👨‍💻 About Me
 
-Let’s see where this journey takes me. 🚀
+Hi! I'm **Sayed Arman**, a 2nd-year Diploma student in **Computer Science & Technology**.
 
-#MachineLearning #MLJourney #MachineLearningEngineer #Python #Pandas #DataScience #LearningInPublic #100DaysOfCode #CodingJourney #AI
+I'm interested in:
+
+* 🤖 Machine Learning & AI
+* 🐍 Python
+* 📊 Data Analysis
+* 👁️ Computer Vision
+* 💻 Programming
+* 🚀 Building projects
+
+I'm starting this journey from the basics and documenting everything along the way.
+
+---
+
+# 🎯 My Goal
+
+My long-term goal is to become a **Machine Learning Engineer** and gain practical experience by building real-world projects.
+
+### My roadmap
+
+```text
+Python
+   ↓
+NumPy
+   ↓
+Pandas
+   ↓
+Data Visualization
+   ↓
+SQL
+   ↓
+Statistics
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Computer Vision / NLP
+   ↓
+ML Projects
+   ↓
+Deployment
+   ↓
+ML Engineer 🚀
+```
+
+---
+
+# 📅 Daily Progress
+
+## 🟢 Day 1 — Pandas Basics
+
+**What I learned:**
+
+* Reading datasets
+* Exploring DataFrames
+* Rows & columns
+* Filtering data
+* Sorting data
+* Finding averages
+* Finding maximum values
+* `groupby()`
+* Counting values
+* Basic data analysis
+
+I also used **ChatGPT as a learning assistant** to understand concepts and solve problems when I got stuck.
+
+---
+
+## 🟢 Day 2 — Pandas Practice + NumPy
+
+**What I accomplished:**
+
+* ✅ Completed **34 Pandas practice questions**
+* 🐼 Improved my understanding of Pandas
+* 🔢 Started learning **NumPy**
+* 📺 Started learning NumPy through **Coding with Sagar** on YouTube
+
+### Current Focus
+
+**NumPy fundamentals**
+
+---
+
+# 📊 Progress Tracker
+
+| Day     | Topic                     | Progress       |
+| ------- | ------------------------- | -------------- |
+| Day 1   | Pandas Basics             | ✅ Completed    |
+| Day 2   | Pandas + NumPy            | 🔄 In Progress |
+| Day 3   | —                         | ⏳              |
+| Day 4   | —                         | ⏳              |
+| Day 5   | —                         | ⏳              |
+| ...     | ...                       | ...            |
+| Day 180 | Machine Learning Projects | 🎯 Goal        |
+
+---
+
+# 🛠️ Technologies I'm Learning
+
+### Programming
+
+* 🐍 Python
+
+### Data Analysis
+
+* 🐼 Pandas
+* 🔢 NumPy
+
+### Data Visualization
+
+* 📊 Matplotlib
+* 📈 Seaborn
+
+### Databases
+
+* 🗄️ SQL
+
+### Machine Learning
+
+* 🤖 Scikit-learn
+
+### Deep Learning
+
+* 🧠 TensorFlow / PyTorch
+
+### Tools
+
+* Google Colab
+* Jupyter Notebook
+* Git & GitHub
+* VS Code
+
+---
+
+# 📂 Repository Structure
+
+```text
+ML-Engineer-Journey/
+│
+├── Day-01/
+│   └── pandas-basics.ipynb
+│
+├── Day-02/
+│   ├── pandas-practice.ipynb
+│   └── numpy-basics.ipynb
+│
+├── Day-03/
+│
+├── projects/
+│
+├── notes/
+│
+└── README.md
+```
+
+The structure will grow as I progress through the journey.
+
+---
+
+# 📈 What I Plan to Build
+
+As I learn, I want to move from simple exercises to real-world projects.
+
+### Beginner Projects
+
+* 📊 Student Performance Analysis
+* 🏠 House Price Prediction
+* 📈 Sales Data Analysis
+
+### Intermediate Projects
+
+* ❤️ Customer Churn Prediction
+* 💳 Fraud Detection
+* 🏷️ Customer Segmentation
+
+### Advanced Projects
+
+* 👁️ Computer Vision Projects
+* 🧠 Deep Learning Projects
+* 🤖 End-to-End ML Applications
+
+---
+
+# 📚 Learning Philosophy
+
+I'm not trying to learn everything in a few weeks.
+
+I'm focusing on:
+
+**Consistency > Speed**
+
+Every day I want to:
+
+1. Learn something new
+2. Practice it
+3. Build something with it
+4. Document what I learned
+5. Repeat
+
+Even small progress is still progress. 🚀
+
+---
+
+# 🔗 Follow My Journey
+
+I'll be sharing my daily progress and lessons learned on **LinkedIn**.
+
+📌 **Day 1:** Started my ML Engineer journey
+📌 **Day 2:** 34 Pandas questions + started NumPy
+📌 **Next:** NumPy fundamentals → Data Analysis → Statistics → Machine Learning
+
+---
+
+# ⭐ Goal
+
+**180 Days. One Goal. One Step Every Day.**
+
+> *"Don't focus on becoming an ML Engineer overnight. Focus on becoming better than yesterday."*
+
+🚀 **Let's build. Let's learn. Let's grow.**
+
